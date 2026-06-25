@@ -45,7 +45,7 @@ const TopHeader = () => {
           <div className="bg-blue-600 text-white p-2 rounded-md">
             <ShoppingCart size={18} />
           </div>
-          <span className="text-blue-600 text-xl font-bold">Brand</span>
+          <span className="text-blue-600 text-xl font-bold">Cartify</span>
         </Link>
 
         {/* Right icons */}
