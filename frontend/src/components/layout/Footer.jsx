@@ -39,7 +39,7 @@ const Footer = () => {
               <div className="bg-blue-600 text-white p-1.5 rounded-md">
                 <ShoppingCart size={16} />
               </div>
-              <span className="text-blue-600 text-lg font-bold">Brand</span>
+              <span className="text-blue-600 text-lg font-bold">Cartify</span>
             </Link>
             <p className="text-xs text-gray-500 mb-4">Best information about the company goes here but now lorem ipsum is</p>
             <div className="flex items-center gap-3">

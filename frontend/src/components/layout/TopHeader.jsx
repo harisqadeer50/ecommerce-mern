@@ -109,7 +109,7 @@ const TopHeader = () => {
           <div className="bg-blue-600 text-white p-2 rounded-md">
             <ShoppingCart size={20} />
           </div>
-          <span className="text-blue-600 text-2xl font-bold">Brand</span>
+          <span className="text-blue-600 text-2xl font-bold">Cartify</span>
         </Link>
 
         {/* Search Bar */}
